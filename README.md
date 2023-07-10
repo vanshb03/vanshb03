@@ -12,7 +12,7 @@ const aboutMe = {
     experience: {
         currently: 'Actively looking for a Summer 2024 Software Engineering ',
         past: [
-            'STEM Intern, Clarkson University, September 2021 - May 2022'
+            'STEM Intern, Clarkson University, July 2022 - May 2023'
         ],
         education: 'B.Sci Computer Science, Clarkson University, 2021 - Present'
     },
