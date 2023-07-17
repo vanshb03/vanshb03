@@ -27,6 +27,11 @@ const aboutMe = {
 }
 ```
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 # 📊 GitHub Stats:
 
 ![](https://github-stats-vanshb03.vercel.app/api?username=vanshb03&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
