@@ -14,8 +14,8 @@ const aboutMe = {
         past: [
             'STEM Intern, Clarkson University, July 2022 - May 2023'
         ],
-        education: 'Bachelors: Computer Science, CUNY - Hunter College, 2023 - Present'
-        education: 'Bachelors: Computer Science, Clarkson University, 2021 - 2023'
+        education:  'Bachelors: Computer Science, CUNY - Hunter College, 2023 - Present'
+                    'Bachelors: Computer Science, Clarkson University, 2021 - 2023'
     },
     workingOn: 'Personal Projects',
     learning: 'Frameworks',
