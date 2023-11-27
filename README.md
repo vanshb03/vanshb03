@@ -3,9 +3,9 @@
 ```javascript
 const aboutMe = {
     name: {
-        pronouns: 'he/him',
         first: "Vansh",
         last: "Bataviya", 
+        pronouns: 'he/him',
     },
     languages: ['R', 'Python', 'C++'],
     design: ['Figma', 'Photoshop', 'Premiere Pro', 'After Effects'],
