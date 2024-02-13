@@ -7,7 +7,7 @@ const aboutMe = {
         last: "Bataviya", 
         pronouns: 'he/him',
     },
-    languages: ['R', 'Python', 'C++', 'HTML', 'CSS','JS'],
+    languages: ['R', 'Python', 'C++', 'HTML', 'CSS', 'JS'],
     design: ['Figma', 'Photoshop', 'Premiere Pro', 'After Effects'],
     experience: {
         currently: 'Software Engineering Intern at Adby',
