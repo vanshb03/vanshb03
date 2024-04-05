@@ -5,23 +5,16 @@ const aboutMe = {
     name: {
         first: "Vansh",
         last: "Bataviya", 
-        pronouns: 'he/him',
+        pronouns: 'he/him/his',
     },
-    languages: ['R', 'Python', 'C++', 'HTML', 'CSS', 'JS'],
-    design: ['Figma', 'Photoshop', 'Premiere Pro', 'After Effects'],
     experience: {
-        currently: 'Software Engineering Intern at Adby',
-        past: [
-            'STEM Intern, Clarkson University, July 2022 - May 2023'
-        ],
-        education:  'Bachelors: Computer Science, CUNY - Hunter College, 2023 - Present'
-                    'Bachelors: Computer Science, Clarkson University, 2021 - 2023'
+        incoming: 'Software Engineering Intern at Capital One',
+        currently: 'Software Engineering Intern at ADBY'
     },
-    workingOn: 'AcademAI',
-    learning: 'Neural Networks',
+    workingOn: 'p-card',
+    learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
-        github: 'https://www.github.com/vanshb03',
         email: 'bataviyavansh@gmail.com',
     }
     
