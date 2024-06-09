@@ -8,8 +8,7 @@ const aboutMe = {
         pronouns: 'he/him/his',
     },
     experience: {
-        incoming: 'Software Engineering Intern at Capital One',
-        currently: 'Software Engineering Intern at ADBY'
+        currently: 'Software Engineering Intern at Capital One',
     },
     workingOn: 'p-card',
     learning: 'How to build a large-scale, high-throughput platforms',
@@ -17,7 +16,7 @@ const aboutMe = {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
         email: 'bataviyavansh@gmail.com',
     },
-    projects: 'https://github.com/vanshb03/vanshb03/blob/main/PROJECTS.md',
+    projects: '@/PROJECTS.md',
 }
 ```
 
