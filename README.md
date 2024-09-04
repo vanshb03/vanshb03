@@ -8,19 +8,19 @@ const aboutMe = {
         pronouns: 'he/him/his',
     },
     experience: {
-        currently: 'Software Engineering Intern at Capital One',
+        curr: 'Building Open Source Projects at cvrve',
+        prev: 'Software Engineering Intern at Capital One'
     },
-    workingOn: 'p-card',
+    workingOn: 'cvrve(',
     learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
         email: 'bataviyavansh@gmail.com',
-    },
-    projects: '@/PROJECTS.md',
+    }
 }
 ```
 
-[![PrograTracker](https://wakatime.com/badge/user/f2b5bf39-ede9-46b4-a375-e3c069906636.svg)](https://wakatime.com/@f2b5bf39-ede9-46b4-a375-e3c069906636)
+[![ProgressTracker](https://wakatime.com/badge/user/f2b5bf39-ede9-46b4-a375-e3c069906636.svg)](https://wakatime.com/@f2b5bf39-ede9-46b4-a375-e3c069906636)
 
 ## 📊 GitHub Stats:
 
