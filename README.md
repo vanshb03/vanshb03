@@ -11,7 +11,7 @@ const aboutMe = {
         curr: 'Building Open Source Projects at cvrve',
         prev: 'Software Engineering Intern at Capital One'
     },
-    workingOn: 'cvrve(',
+    workingOn: 'cvrve',
     learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
