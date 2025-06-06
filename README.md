@@ -8,10 +8,9 @@ const aboutMe = {
         pronouns: 'he/him/his',
     },
     experience: {
-        curr: 'looking for a project :)',
-        prev: 'Software Engineering Intern at Capital One'
+        curr: 'Software Engineering Intern at Capital One',
     },
-    workingOn: 'N/A',
+    workingOn: 'Finding the next side project',
     learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
