@@ -10,8 +10,6 @@ const aboutMe = {
     experience: {
         curr: 'Software Engineering Intern at Capital One',
     },
-    workingOn: 'Finding the next side project',
-    learning: 'How to build a large-scale, high-throughput platforms',
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
         email: 'bataviyavansh@gmail.com',
