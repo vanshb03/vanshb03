@@ -8,7 +8,8 @@ const aboutMe = {
         pronouns: 'he/him/his',
     },
     experience: {
-        curr: 'Software Engineering Intern at Capital One',
+        curr: 'mts @ Crescent',
+        prev: 'swei @ Capital One'
     },
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
