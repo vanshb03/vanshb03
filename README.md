@@ -13,7 +13,7 @@ const aboutMe = {
     },
     socials: {
         linkedin: 'https://www.linkedin.com/in/vansh-bataviya',
-        email: 'bataviyavansh@gmail.com',
+        email: 'vansh@vansh.nyc',
     }
 }
 ```
